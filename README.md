@@ -1,7 +1,7 @@
 MiniFramework\Validator
 =======================
 
-Simple Validation Class for PHP, it's a part of Creative Weapons - MiniFramework and it perfect integrate with all other modules.
+Simple Validation Class for PHP, it's a part of Creative Weapons - MiniFramework and it perfect integrates with all other modules.
 
 Uses
 ====
