@@ -8,6 +8,8 @@
  * @author Simón Urzúa <simon@productor.cl>
  */
 
+namespace CreativeWeapons\MiniFramework;
+
 class Validator
 {
 
